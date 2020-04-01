@@ -1,6 +1,6 @@
-# Interview-Preparation-Kit_Hackerrank
-
-## Solutions for DSA Problems [C++]
+# Hackerrank/Interview Preparation Kit
+---
+## Solutions for Common DSA Problems [C++]
 ---
 ### Completed:
 
