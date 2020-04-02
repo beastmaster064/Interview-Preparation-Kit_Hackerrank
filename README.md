@@ -2,7 +2,7 @@
 ---
 ## Solutions for Common DSA Problems [C++]
 ---
-### Completed:
+### Completed [30%]:
 
 * Arrays (4/5 solved)
   * 2DArrays DS
