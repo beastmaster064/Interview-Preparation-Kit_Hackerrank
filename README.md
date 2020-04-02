@@ -1,4 +1,4 @@
-# Hackerrank/Interview Preparation Kit
+# Hackerrank\Interview Preparation Kit
 ---
 ## Solutions for Common DSA Problems [C++]
 ---
